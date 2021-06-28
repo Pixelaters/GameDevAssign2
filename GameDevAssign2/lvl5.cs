@@ -147,7 +147,7 @@ namespace GameDevAssign2
 
         private void btn3_Click(object sender, EventArgs e)
         {
-            if (stage == 4)
+            if (stage == 4)//you 
             {
                 MessageBox.Show("you are 3/4 done");
                 btn3.Enabled = false;
@@ -159,12 +159,7 @@ namespace GameDevAssign2
 
                 stage++;
             }
-            else if (stage == 4)//you
-            {
-                MessageBox.Show("almost there");
-                stage++;
 
-            }
             else if (stage == 9)
             {
                 MessageBox.Show("well done you completed the game!");
