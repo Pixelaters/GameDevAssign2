@@ -18,3 +18,23 @@ D:\Users\zpete\source\repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssig
 D:\Users\zpete\source\repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.lvl5.resources
 D:\Users\zpete\source\repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.HelpForm.resources
 D:\Users\zpete\source\repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.Congratulations.resources
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\bin\Debug\GameDevAssign2.exe.config
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\bin\Debug\GameDevAssign2.exe
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\bin\Debug\GameDevAssign2.pdb
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.csprojAssemblyReference.cache
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.Congratulations.resources
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.HelpForm.resources
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.lvl3.resources
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.lvl2.resources
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.lvl1.resources
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.lvl4.resources
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.lvl5.resources
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.Main_menu.resources
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.Map.resources
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.Map2.resources
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.Properties.Resources.resources
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.SplashScreen.resources
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.csproj.GenerateResource.cache
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.csproj.CoreCompileInputs.cache
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.exe
+C:\Users\FARAI SKOOL\Source\Repos\GameDevAssign2\GameDevAssign2\obj\Debug\GameDevAssign2.pdb
